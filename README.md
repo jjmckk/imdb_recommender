@@ -9,3 +9,4 @@ Content based filtering recommender for films in the IMDB dataset that leverages
 ├── main.py                 # Main script to run preprocessing and generate recommendations
 ├── requirements.txt        # List of required libraries for pip installation
 └── README.md               # Project overview and usage instructions
+
