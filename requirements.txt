@@ -1,0 +1,6 @@
+mkl-service==2.4.0
+pywin32==308
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+webencodings==0.5.1
